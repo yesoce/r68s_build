@@ -1,3 +1,10 @@
+此仓库会不定期上传、分享一些电犀牛R68s的OpenWRT固件和软件包，欢迎大佬们的使用！
+- 感谢Lede提供的源码：https://github.com/coolsnowwolf/lede
+- 感谢P3TERX提供的编译项目：https://github.com/P3TERX/Actions-OpenWrt
+- 感谢kenzok8提供的插件库：https://github.com/kenzok8/openwrt-packages
+
+以下为P3TERX/Actions-OpenWrt的readme文件：
+_____________________________________________________
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
